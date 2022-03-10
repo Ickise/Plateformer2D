@@ -6,6 +6,8 @@ TagManager:
   tags:
   - sol
   - death
+  - Ground
+  - Coin
   layers:
   - Default
   - TransparentFX
